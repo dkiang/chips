@@ -32,7 +32,7 @@ Your makeMove method should, when invoked, do the following:
 * Ensure the move is valid (between 1 and numRemaining for the first move, between 1 and 2 * lastMove for all other moves)
 * Return an integer value (the number of chips to take on this move).
 
-#Chips Rules
+# Chips Rules
 * Two players take turns removing chips from a pile with n number of chips.
 * The first player to play can remove between 1 and (n-1) chips.
 * The next player can remove between 1 and 2x the previous number of chips removed by the other player.
